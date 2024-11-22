@@ -1,0 +1,18 @@
+:title Aqua Web Browser
+:image main.aqua/logo.png
+
+:text Welcome to the Aqua Web Browser! This is the main page that shows off features of Aqua websites.
+
+:text If you're new here, check out the following sections to get started:
+
+:list
+- {link: About Aqua Browser|about.aqua} (Soon™)
+- {link: How to Create Aqua Websites|create.aqua} (Soon™)
+
+:text Here are some important things to know about the Aqua Browser:
+
+:text Aqua Browser allows you to load {bold: Aquarium} (.aqrm) websites, styled with {bold: Marina} (.mar) and powered by {code:TideScript} for client-side interactions. You can navigate between pages like you would in a traditional browser, but with Aqua's own unique system!
+
+:text To learn more about Aqua, visit our {link: documentation page|documentation.aqua} (Soon™).
+
+:text Thank you for visiting Aqua Web Browser! Enjoy exploring the Aqua ecosystem.
