@@ -11,8 +11,8 @@
 
 :text Here are some important things to know about the Aqua Browser:
 
-:text Aqua Browser allows you to load {bold: Aquarium} (.aqrm) websites, styled with {bold: Marina} (.mar) and powered by {code:TideScript} for client-side interactions. You can navigate between pages like you would in a traditional browser, but with Aqua's own unique system!
+:text Aqua Browser allows you to load {bold: Aquarium (.aqrm)} websites, styled with {bold: Marina (.mar)} and powered by {code:TideScript (.tide)} for client-side interactions. You can navigate between pages like you would in a traditional browser, but with Aqua's own unique system!
 
-:text To learn more about Aqua, visit our {link: documentation page|documentation.aqua} (Soon™).
+:text To learn more about Aqua, visit our {link: docs|docs.aqua} (Soon™).
 
 :text Thank you for visiting Aqua Web Browser! Enjoy exploring the Aqua ecosystem.
