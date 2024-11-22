@@ -1,0 +1,7 @@
+:title A test website
+:text It contains everything that is used in Aquarium Language like:
+:text text, {link:links|home.aqua/test.aqrm}, {bold: BOLD} text, {code: code} text
+:text and lists like the one below:
+:list
+- item1
+- item2
